@@ -1,2 +1,2 @@
-# gnss-denied-localization-with-multi-sensor-fusion-and-slam
+# GNSS-Denied Localization with Multi-Sensor Fusion and SLAM
 Localization, SLAM &amp; Sensor Fusion
